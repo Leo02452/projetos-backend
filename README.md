@@ -37,7 +37,7 @@
   <summary>Ver mais</summary>
   
 ### All For One
-<strong>Descrição:</strong> Desafio de interações (Consulta com filtro e manipulação de tabelas) com o banco utilizando a linguagem MySQL para as querys.
+<strong>Descrição:</strong> Desafio de interações (consulta com filtro e manipulação de tabelas) com o banco utilizando a linguagem MySQL para as querys.
 <br>
 <strong>Link do repositório:</strong> https://github.com/Leo02452/all-for-one
 
